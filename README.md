@@ -13,11 +13,11 @@ This repository contains my technical certifications, badges, and learning achie
 📜 Certificate: Available in this repository
 
 ---
-## Python Essentials 1
+### Python Essentials 1
 
 - **Issued by:** Cisco Networking Academy & OpenEDG Python Institute
 - **Date:** June 2026
 - **Skills:** Python Fundamentals, Variables, Data Types, Loops, Conditional Statements, Functions, Debugging, Problem Solving, Python Standard Library
 - 📜 **Certificate:** Available in this repository
-- 
+  
 More certifications will be added as I continue my learning journey.
