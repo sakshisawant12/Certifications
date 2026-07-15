@@ -6,11 +6,11 @@ This repository contains my technical certifications, badges, and learning achie
 ## Certifications
 
 ### Cisco Networking Basics
-- Issued by: Cisco Networking Academy
-- Date: June 2026
-- Skills: Networking Fundamentals, IP Addressing, Network Protocols, Wireless Networking, Cisco Packet Tracer
+- **Issued by:** Cisco Networking Academy
+- **Date:** June 2026
+- **Skills:** Networking Fundamentals, IP Addressing, Network Protocols, Wireless Networking, Cisco Packet Tracer
 
-📜 Certificate: Available in this repository
+📜 **Certificate:** Available in this repository
 
 ---
 ### Python Essentials 1
@@ -19,5 +19,16 @@ This repository contains my technical certifications, badges, and learning achie
 - **Date:** June 2026
 - **Skills:** Python Fundamentals, Variables, Data Types, Loops, Conditional Statements, Functions, Debugging, Problem Solving, Python Standard Library
 - 📜 **Certificate:** Available in this repository
-  
+
+
+### Datacom – Introduction to Cloud Job Simulation
+
+**Issued by:** Forage & Datacom  
+**Date:** June 2026  
+
+**Skills:** Cloud Computing Fundamentals, Cloud Application Registration, GitHub Actions, CI/CD Basics, Version Control (Git & GitHub), Workflow Automation
+
+📜 **Certificate:** Available in this repository.
+
+
 More certifications will be added as I continue my learning journey.
