@@ -23,12 +23,12 @@ This repository contains my technical certifications, badges, and learning achie
 ---
 ### Datacom – Introduction to Cloud Job Simulation
 
-**Issued by:** Forage & Datacom  
-**Date:** June 2026  
+- **Issued by:** Forage & Datacom  
+- **Date:** June 2026  
 
-**Skills:** Cloud Computing Fundamentals, Cloud Application Registration, GitHub Actions, CI/CD Basics, Version Control (Git & GitHub), Workflow Automation
+- **Skills:** Cloud Computing Fundamentals, Cloud Application Registration, GitHub Actions, CI/CD Basics, Version Control (Git & GitHub), Workflow Automation
 
-📜 **Certificate:** Available in this repository.
+- 📜 **Certificate:** Available in this repository.
 
 
 More certifications will be added as I continue my learning journey.
