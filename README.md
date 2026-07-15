@@ -20,7 +20,7 @@ This repository contains my technical certifications, badges, and learning achie
 - **Skills:** Python Fundamentals, Variables, Data Types, Loops, Conditional Statements, Functions, Debugging, Problem Solving, Python Standard Library
 - 📜 **Certificate:** Available in this repository
 
-
+---
 ### Datacom – Introduction to Cloud Job Simulation
 
 **Issued by:** Forage & Datacom  
