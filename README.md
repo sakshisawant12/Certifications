@@ -30,5 +30,16 @@ This repository contains my technical certifications, badges, and learning achie
 
 - 📜 **Certificate:** Available in this repository.
 
+### AWS Knowledge – Cloud Essentials (Trained)
+
+- **Issued by:** Amazon Web Services (AWS)
+- **Date:** July 2026
+
+- **Skills:** Cloud Computing Fundamentals, AWS Global Infrastructure, AWS Shared Responsibility Model, AWS Core Services (Compute, Storage, Networking, Database), Security & Identity (IAM), Pricing & Billing, AWS Well-Architected Framework
+
+- 📜 **Badge:** Available in this repository.
+
+---
+
 
 More certifications will be added as I continue my learning journey.
