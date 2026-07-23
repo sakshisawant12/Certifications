@@ -42,6 +42,15 @@ This repository contains my technical certifications, badges, and learning achie
 - 📜 **Badge:** Available in this repository.
 
 ---
+### AWS Networking Basics
 
+- **Issued by:** Amazon Web Services (AWS)
+- **Date:** June 2026
+
+- **Skills:** AWS Networking Fundamentals, Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, Network ACLs, Elastic IP, VPC Connectivity, DNS Basics, Network Security
+
+- 📜 **Certificate:** Available in this repository.
+
+---
 
 More certifications will be added as I continue my learning journey.
