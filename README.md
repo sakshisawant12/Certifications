@@ -2,8 +2,9 @@
 "Central repository for my technical certifications, badges, and continuous learning achievements."
 
 This repository contains my technical certifications, badges, and learning achievements in Networking, Linux, Cloud Computing, Python, and related technologies.
-
+---
 ## Certifications
+---
 
 ### Cisco Networking Basics
 - **Issued by:** Cisco Networking Academy
@@ -29,6 +30,7 @@ This repository contains my technical certifications, badges, and learning achie
 - **Skills:** Cloud Computing Fundamentals, Cloud Application Registration, GitHub Actions, CI/CD Basics, Version Control (Git & GitHub), Workflow Automation
 
 - 📜 **Certificate:** Available in this repository.
+---
 
 ### AWS Knowledge – Cloud Essentials (Trained)
 
