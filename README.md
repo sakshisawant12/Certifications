@@ -53,4 +53,17 @@ This repository contains my technical certifications, badges, and learning achie
 
 ---
 
+---
+
+### AWS Cloud Practitioner Essentials
+
+- **Issued by:** Amazon Web Services (AWS)
+- **Date:** July 2026
+
+- **Skills:** Cloud Computing Fundamentals, AWS Global Infrastructure, AWS Core Services, IAM, EC2, Amazon S3, Amazon RDS, AWS Lambda, VPC Basics, Security & Compliance, Shared Responsibility Model, AWS Pricing & Billing, Cloud Architecture Fundamentals
+
+- 📜 **Certificate:** Available in this repository.
+
+---
+
 More certifications will be added as I continue my learning journey.
